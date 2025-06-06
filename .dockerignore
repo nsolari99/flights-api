@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Env / editor / OS noise
+.env
+.venv/
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Tests, artifacts
+.coverage
+htmlcov/
+dist/
+build/
